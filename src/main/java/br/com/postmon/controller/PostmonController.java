@@ -10,7 +10,7 @@ import br.com.postmon.domain.model.Principal;
 import br.com.postmon.service.Servico;
 
 @RestController
-@RequestMapping("/myApi")
+@RequestMapping("/my-api")
 public class PostmonController {
 
 	@Autowired
